@@ -203,8 +203,6 @@ The project also includes introductory VBA work covering:
 
 ## 📸 Project Screenshots
 
-## 📸 Project Screenshots
-
 ### Sales Analysis
 
 ![Sales Analysis](screenshots/sales-analysis.png)
