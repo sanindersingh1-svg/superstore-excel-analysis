@@ -203,6 +203,8 @@ The project also includes introductory VBA work covering:
 
 ## 📸 Project Screenshots
 
+## 📸 Project Screenshots
+
 ### Sales Analysis
 
 ![Sales Analysis](screenshots/sales-analysis.png)
@@ -215,9 +217,9 @@ The project also includes introductory VBA work covering:
 
 ![Data Cleaning](screenshots/data-cleaning.png)
 
-### VBA Automation
+### Lookup Analysis
 
-![VBA Automation](screenshots/vba-macro.png)
+![Lookup Analysis](screenshots/lookup-analysis.png)
 
 ---
 
