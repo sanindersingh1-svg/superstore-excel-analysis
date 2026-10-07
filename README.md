@@ -1,2 +1,10 @@
-# superstore-excel-analysis
-Excel data analysis project using the Superstore dataset, covering data cleaning, formulas, functions, sorting, filtering, conditional formatting, and VBA macros.
+superstore-excel-data-analysis/
+│
+├── README.md
+│
+├── Superstore-Excel-Analysis.xlsm
+│
+└── screenshots/
+    ├── sales-analysis.png
+    ├── pivot-table.png
+    └── vba-macro.png
